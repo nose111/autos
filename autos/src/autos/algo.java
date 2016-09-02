@@ -1,6 +1,6 @@
 package autos;
 
 public class algo {
-  String a;//ff
+  String a;//ffYYs
   
 }
